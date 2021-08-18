@@ -1,0 +1,16 @@
+{
+  "name": "Samson",
+  "description": "Samson's Portfolio web site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.4.0"
+  },
+  "dependencies": {
+    "swiper": "^6.7.5"
+  }
+}
